@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 ### :woman_technologist: About Me: 
-I am a junior developer that completed a 14-week remote software development bootcamp through Coding Dojo in August 2022. I learned web fundamentals (HTML5, CSS, JavaScript), three full stacks (Python, MERN, C# .NET), and practiced algorithms daily with pair programming.
-- 🔭 I’m currently working on a MERN project, Accessible Cities. Stay tuned for a C#/ASP.NET project.
+I am a junior developer that completed a 14-week remote software development bootcamp through Coding Dojo (May-August 2022). I learned web fundamentals (HTML5, CSS, JavaScript), three full stacks (Python, MERN, C# .NET), and practiced algorithms daily with pair programming.
+- 🔭 I’m currently working on a MERN project, Accessible Cities. Stay tuned for a C#/.NET project.
 - 🌱 In the next few months, I will learn more about TypeScript, AngularJS, Java full-stack web development, and Python for data science use.
 - 💬 Ask me about my upcoming software development job search as I graduate from the University of Tennessee Knoxville in May 2023!
 - 📫 How to reach me: Email - sarahpz479@gmail.com | Linkedin - www.linkedin.com/in/sarah-perez-dev
