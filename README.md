@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 ### :woman_technologist: About Me: 
-I am a junior developer that completed a 14-week remote software development bootcamp through Coding Dojo (May-August 2022). I put in 1000+ hours learning web fundamentals (HTML5, CSS, JavaScript), three full stacks (Python, MERN, C# .NET), and practiced algorithms daily with pair programming.
-- 🔭 I’m currently working on a MERN project, Accessible Cities. Stay tuned for a C#/.NET project.
-- 🌱 In the past few months, I have learned more about Python for data science use and computer science.
-- 💬 Ask me about my software development job search as I graduated from the University of Tennessee Knoxville in May 2023!
+I am a junior developer that completed a 14-week remote software development bootcamp through Coding Dojo (May-August 2022). I put in 1000+ hours learning web fundamentals (HTML5, CSS, JavaScript), three full stacks (Python/Flask, MERN, C#/.NET), and practiced algorithms daily with pair programming.
+- 🔭 I’m currently tweaking past projects. Stay tuned for a C#/.NET project.
+- 🌱 Recently, I have learned more about Python for data science use and Java fundamentals.
+- 💬 Ask me about my next steps to become a software developer since I graduated from the University of Tennessee, Knoxville in May 2023!
 - 📫 How to reach me: Email - sarahpz479@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I love kayaking, doing art in my free time, and volunteering in my community!
@@ -37,6 +37,8 @@ I am a junior developer that completed a 14-week remote software development boo
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
 </div>
 
 ###  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjperez1&langs_count=10&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
