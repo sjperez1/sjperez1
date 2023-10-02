@@ -34,11 +34,12 @@ I am a junior developer that completed a 14-week remote software development boo
   <a href="https://www.python.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp; </a>
   <a href="https://jupyter.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp; </a>
-  <a href="https://numpy.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp; </a>
+  <a href="https://www.eclipse.org/"> <img src="https://th.bing.com/th?id=OIP._nH2Yk33H4UPDGcfZO6hdAAAAA&w=80&h=80&c=8&o=6&dpr=1.3&pid=5.1" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp; </a>
   <a href="https://trello.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp; </a>
   <a href="https://code.visualstudio.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp; </a>
   <a href="https://www.java.com/en/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp; </a>
   <a href="https://posit.co/products/open-source/rstudio/"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp; </a>
+  <a href="https://www.postman.com/home"> <img src="https://th.bing.com/th?id=ABT27171F2C952EC8052DDD03DB89BF8B756346B6EA4810EBBF6B3A7F7ED603D728&w=80&h=80&c=8&o=6&dpr=1.3&pid=5.1" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; </a>
 </div>
 
 ###  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjperez1&langs_count=10&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
